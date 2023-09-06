@@ -1,19 +1,12 @@
 ACTION
 
-it is a portfolio website for Action Design and technolgy and i used html,css,javascript for this
-.it contains four pages homepage,contactpage,service,and works 
-
 done a portfolio website for our own company where i did my intern.here i used Html css js concepts which i learnt before & got KT on css mediqquries and css flexbox and grid from senior collegeaous
 
 SRI MATRIMONY
 
- it is a matrimonial website for one client for ive designs.i collabrate with  team and I collebrate with team and i can do admin side frontend for this website
-
 had been part of this matrimonial project as a part time jr front-end dev.my role here is do admin side frontend for the above mentioed website.
 
 CAPUCINO
-
- IT is a food delivery app for the Capucino restarunt.they are moving their buisness to online.thier also one of the client for ive design. i collabrate with team and i do Admin side frontend  and some client side frontend for this project
 
 designed a food delivery app for the Capucino restarunt .As client wants to move their business towards current trend.we delivered a end-to-end app within the given limited time span.
 
@@ -24,6 +17,7 @@ while i was the integral part of Ive design pvt ltd. they taught me a about wix 
 
 
 Flower Exporter management System Web App
+
 it is cient customer interactive website.it is four way accessive website 1.admin/ownwer 2.flower collector 3.local invester 4.customer
 here 1.admin can able to handle all data like quantity,price entry.
 2.flower collector is able view particular details quatity,who are all his local investors to collect flower.
