@@ -420,9 +420,14 @@ img {
 }
 
 .home_information {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   font-size: var(--small-font-size);
+  color: var(--text-color);
+}
+
+.home_information:hover {
+  color: var(--title-color);
 }
 
 .home__icon {
